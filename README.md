@@ -8,7 +8,7 @@ Web-Crawler is run using Ruby on Rails and exists entirely within a Plain old Ru
 
 # Methods:
 <h2>create_data</h2>
-Run ```Crawler.create_data``` within the rails console in order to initiate the crawl and to temporarily create a workable dataset for the duration of the console session.
+Run `Crawler.create_data` within the rails console in order to initiate the crawl and to temporarily create a workable dataset for the duration of the console session.
 
 <h2>clear_data</h2>
 Run ```Crawler.clear_data``` to clear the cache of data that has been created after running ```Crawler.create_data```.
